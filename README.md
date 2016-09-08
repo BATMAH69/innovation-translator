@@ -1,2 +1,2 @@
 # innovation-translator
-Translate innovation from isotropic site.
+Переводчик для настольнок онлайн игры innovation сайта isotropic.
